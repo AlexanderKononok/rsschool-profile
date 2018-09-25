@@ -1,2 +1,2 @@
 ALIAKSANDR KANANOK
-https://www.codecademy.com/users/AlexanderKononok/achievements
+HTML CSS Basics: https://www.codecademy.com/users/AlexanderKononok/achievements
